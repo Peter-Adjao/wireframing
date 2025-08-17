@@ -39,5 +39,40 @@ Wireframes often indicate basic **interactive elements** such as buttons, forms,
 
 ---  
 
-Together, these elements create a **blueprint for design and development**, reducing misunderstandings and aligning the team on how the product should function and look.  
+Together, these elements create a **blueprint for design and development**, reducing misunderstandings and aligning the team on how the product should function and look.
+
+## Types of Wireframes  
+
+Wireframes can be created with different levels of detail depending on the stage of the design process. The two most common types are **low-fidelity** and **high-fidelity** wireframes.  
+
+### Low-Fidelity Wireframes  
+- **Description**: These are simple, rough sketches that focus on the **basic structure and layout** rather than design details. They often use placeholders such as boxes for images and lines for text.  
+- **When Used**: Early in the design process to **brainstorm ideas**, **validate concepts**, and gather **feedback quickly** from stakeholders.  
+- **Key Benefit**: Saves time and encourages iteration before committing to visual design.  
+
+### High-Fidelity Wireframes  
+- **Description**: These are more detailed and polished versions of wireframes that include **typography, colors, images, and realistic spacing**. They closely resemble the final product in terms of look and interactivity.  
+- **When Used**: Later in the design process, after the structure and user flow are confirmed. Used to **communicate the final vision** to developers and stakeholders.  
+- **Key Benefit**: Provides a clearer picture of the user interface and can be used for **usability testing** before moving to development.  
+
+---
+
+## What is a High-Fidelity Wireframe?  
+
+A **high-fidelity wireframe** is a detailed and visually rich representation of a design. Unlike low-fidelity wireframes, it focuses not only on the **layout and structure** but also on **visual design elements** such as:  
+
+- Typography and font sizes  
+- Color schemes  
+- Icons and imagery  
+- Spacing, margins, and padding  
+- Interactive components (buttons, forms, sliders, etc.)  
+
+High-fidelity wireframes are typically created using design tools like **Figma, Sketch, or Adobe XD**. They are especially useful for:  
+
+- **Demonstrating the final user interface (UI)** before development.  
+- **Conducting usability testing** with realistic prototypes.  
+- **Aligning developers and designers** on the exact design specifications.  
+
+In essence, high-fidelity wireframes act as the **blueprint of the final product’s UI**, bridging the gap between design concepts and actual development.  
+  
 
